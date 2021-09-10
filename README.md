@@ -18,3 +18,7 @@ Selenium - Interação com o Driver do Chrome, lendo e simulando cliques.
 ### `CT - 03: Verificar rotas (Home - Jogadores - Jogos - Resultados)`
 
 ### `CT - 04: TODO`
+
+### `Rodando os casos de teste`
+
+pytest -q .\src\test_plans\test_smoke.py -rA
