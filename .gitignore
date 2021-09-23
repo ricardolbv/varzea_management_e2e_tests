@@ -1,4 +1,2 @@
-venv
-.log
-.pytest_cache
-/src/__pycache__
+node_modules
+*.log

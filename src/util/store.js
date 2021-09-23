@@ -1,0 +1,4 @@
+var store = () => {
+    var tst = []
+
+}
